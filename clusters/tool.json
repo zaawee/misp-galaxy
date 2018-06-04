@@ -1419,7 +1419,7 @@
           "https://www.f-secure.com/documents/996508/1030745/nanhaishu_whitepaper.pdf"
         ]
       },
-      "description": "This whitepaper details a malicious program we identify as NanHaiShu. Based on our analysis, the threat actor behind this malware targets government and private-sector organizations.",
+      "description": "Remote Access Trojan (RAT) that is spread in spearphishing email messages which contain the malware as a malicious file attachment. Threat actor behind this malware targets government and private-sector organizations. Notable targets of the malware include the Department of Justice of the Philippines, the organizers of the Asia-Pacific Economic Cooperation (APEC) Summit and a major international law firm.",
       "value": "NanHaiShu",
       "uuid": "7abd6950-7a07-4d9e-ade1-62414fa50619"
     },
