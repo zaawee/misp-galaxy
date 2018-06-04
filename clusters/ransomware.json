@@ -9697,6 +9697,19 @@
         ]
       },
       "uuid": "39cb0268-528b-11e8-ac30-0fa44afdc8de"
+    },
+    {
+      "value": "PornBlackmailer",
+      "description": "A new infection is being distributed by porn sites that tries to blackmail a victim into paying a ransom by stating they will tell law enforcement that the victim is spreading child porn. This is done by collecting information about the user, including screen shots of their active desktop, in order to catch them in compromising situations.",
+      "meta": {
+        "refs": [
+          "https://www.bleepingcomputer.com/news/security/blackmailware-found-on-porn-site-threatens-to-report-users-are-spreading-child-porn/"
+        ],
+        "ransomnotes": [
+          "https://www.bleepstatic.com/images/news/malware/b/blackmailware/pornblackmailer/ransom-note.jpg"
+        ]
+      },
+      "uuid": "a1a730e2-f1a4-4d7b-9930-80529cd97f3c"
     }
   ],
   "source": "Various",
