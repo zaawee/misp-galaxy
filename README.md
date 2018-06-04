@@ -18,6 +18,9 @@ to localized information (which is not shared) or additional information (that c
 
 - [clusters/android.json](clusters/android.json) - Android malware galaxy based on multiple open sources.
 - [clusters/banker.json](clusters/banker.json) - A list of banker malware.
+- [clusters/stealer.json](clusters/stealer.json) - A list of malware stealer.
+- [clusters/botnet.json](clusters/botnet.json) - A list of known botnets.
+- [clusters/branded_vulnerability.json](clusters/branded_vulnerability.json) - List of known vulnerabilities and exploits.
 - [clusters/exploit-kit.json](clusters/exploit-kit.json) - Exploit-Kit is an enumeration of some exploitation kits used by adversaries. The list includes document, browser and router exploit kits. It's not meant to be totally exhaustive but aim at covering the most seen in the past 5 years.
 - [clusters/microsoft-activity-group.json](clusters/microsoft-activity-group.json) - Activity groups as described by Microsoft.
 - [clusters/preventive-measure.json](clusters/preventive-measure.json) - Preventive measures.
@@ -27,11 +30,26 @@ to localized information (which is not shared) or additional information (that c
 - [clusters/threat-actor.json](clusters/threat-actor.json) - Adversary groups - Known or estimated adversary groups targeting organizations and employees. Adversary groups are regularly confused with their initial operation or campaign. MISP
 - [clusters/tool.json](clusters/tool.json) - tool is an enumeration of tools used by adversaries. The list includes malware but also common software regularly used by the adversaries.
 
-- [clusters/mitre_attack-pattern.json](clusters/mitre_attack-pattern.json) - Attack Pattern - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
-- [clusters/mitre_course-of-action.json](clusters/mitre_course-of-action.json) - Course of Action - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
-- [clusters/mitre_intrusion-set.json](clusters/mitre_intrusion-set.json) - Intrusion Test - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
-- [clusters/mitre_malware.json](clusters/mitre_malware.json) - Malware - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
-- [clusters/mitre_tool.json](clusters/mitre_tool.json) - Tool - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK)
+- [clusters/mitre-attack-pattern.json](clusters/mitre-attack-pattern.json) - Attack Pattern - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v1.0
+- [clusters/mitre-course-of-action.json](clusters/mitre-course-of-action.json) - Course of Action - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v1.0
+- [clusters/mitre-intrusion-set.json](clusters/mitre-intrusion-set.json) - Intrusion Set - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v1.0
+- [clusters/mitre-malware.json](clusters/mitre-malware.json) - Malware - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v1.0
+- [clusters/mitre-tool.json](clusters/mitre-tool.json) - Tool - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v1.0
+
+- [clusters/mitre-enterprise-attack-attack-pattern.json](clusters/mitre-enterprise-attack-attack-pattern.json) - Attack Pattern - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0 Enterprise Attack
+- [clusters/mitre-enterprise-attack-course-of-action.json](clusters/mitre-enterprise-attack-course-of-action.json) - Course of Action - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Enterprise Attack
+- [clusters/mitre-enterprise-attack-intrusion-set.json](clusters/mitre-enterprise-attack-intrusion-set.json) - Intrusion Set - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Enterprise Attack - Malware - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Enterprise Attack
+- [clusters/mitre-enterprise-attack-relationship.json](clusters/mitre-enterprise-attack-relationship.json) - Relationship . MITRE Relationship - V2.0 Enterprise Attack
+- [clusters/mitre-enterprise-attack-tool.json](clusters/mitre-enterprise-attack-tool.json) - Tool - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Enterprise Attack
+- [clusters/mitre-mobile-attack-attack-pattern.json](clusters/mitre-mobile-attack-attack-pattern.json) - Attack Pattern - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Mobile Attack
+- [clusters/mitre-mobile-attack-course-of-action.json](clusters/mitre-mobile-attack-course-of-action.json) - Course of Action - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Mobile Attack
+- [clusters/mitre-mobile-attack-intrusion-set.json](clusters/mitre-mobile-attack-intrusion-set.json) - Intrusion Set - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Mobile Attack
+- [clusters/mitre-mobile-attack-malware.json](clusters/mitre-mobile-attack-malware.json) - Malware - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Mobile Attack
+- [clusters/mitre-mobile-attack-relationship.json](clusters/mitre-mobile-attack-relationship.json) - Relationship . MITRE Relationship - V2.0 Mobile Attack
+- [clusters/mitre-mobile-attack-tool.json](clusters/mitre-mobile-attack-tool.json) - Tool - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Mobile Attack
+- [clusters/mitre-pre-attack-attack-pattern.json](clusters/mitre-pre-attack-attack-pattern.json) - Attack Pattern - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0 Pre Attack
+- [clusters/mitre-pre-attack-intrusion-set.json](clusters/mitre-pre-attack-intrusion-set.json) - Intrusion Set - MITRE Adversarial Tactics, Techniques & Common Knowledge (ATT&CK) - v2.0  Pre Attack
+- [clusters/mitre-pre-attack-relationship.json](clusters/mitre-pre-attack-relationship.json) - Relationship . MITRE Relationship - V2.0 Pre Attack
 
 - [clusters/sectors.json](clusters/sectors.json) - Activity sectors
 - [clusters/cert-eu-govsector.json](clusters/cert-eu-govsector.json) - Cert EU GovSector
