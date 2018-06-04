@@ -9105,7 +9105,13 @@
       "description": "On October 24, 2017, Cisco Talos was alerted to a widescale ransomware campaign affecting organizations across eastern Europe and Russia. As was the case in previous situations, we quickly mobilized to assess the situation and ensure that customers remain protected from this and other threats as they emerge across the threat landscape. There have been several large scale ransomware campaigns over the last several months. This appears to have some similarities to Nyetya in that it is also based on Petya ransomware. Major portions of the code appear to have been rewritten. The distribution does not appear to have the sophistication of the supply chain attacks we have seen recently.",
       "meta": {
         "refs": [
-          "http://blog.talosintelligence.com/2017/10/bad-rabbit.html"
+          "http://blog.talosintelligence.com/2017/10/bad-rabbit.html",
+          "https://www.welivesecurity.com/2017/10/24/bad-rabbit-not-petya-back/",
+          "https://securelist.com/bad-rabbit-ransomware/82851/",
+          "http://www.intezer.com/notpetya-returns-bad-rabbit/"
+        ],
+        "ransomnotes": [
+          "https://www.welivesecurity.com/wp-content/uploads/2017/10/mbr_cut.png"
         ],
         "synonyms": [
           "BadRabbit",
