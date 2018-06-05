@@ -597,11 +597,6 @@
       "value": "Winexe"
     },
     {
-      "description": "RAT initialy identified in 2011 and still actively used.",
-      "value": "Dark Comet",
-      "uuid": "9ad11139-e928-45cf-a0b4-937290642e92"
-    },
-    {
       "meta": {
         "synonyms": [
           "WinSpy"
