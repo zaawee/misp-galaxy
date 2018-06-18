@@ -2754,27 +2754,6 @@
     {
       "meta": {
         "refs": [
-          "https://id-ransomware.blogspot.co.il/2016/12/goldeneye-ransomware.html",
-          "https://www.bleepingcomputer.com/news/security/petya-ransomware-returns-with-goldeneye-version-continuing-james-bond-theme/",
-          "https://www.bleepingcomputer.com/forums/t/634778/golden-eye-virus/"
-        ],
-        "ransomnotes": [
-          "https://4.bp.blogspot.com/-qcJxWivTx1w/WEcEW14om5I/AAAAAAAACa4/xLAlsQGZjeg7Zlg3F2fQAcgQ_6b_cNQLACLcB/s1600/goldeneye-1.jpg",
-          "https://4.bp.blogspot.com/-avE8liOWdPY/WEcEbdTxx6I/AAAAAAAACa8/KOKgXzU1h2EJ0tTOKMdQzZ_JdWWNeFMdwCLcB/s1600/goldeneye-1-2.jpg"
-        ],
-        "encryption": "AES(CBC)",
-        "extensions": [
-          ".<random_8_chars>"
-        ],
-        "date": "December 2016"
-      },
-      "description": "It’s directed to English speaking users, therefore is able to infect worldwide.  It is spread using email spam, fake updates, attachments and so on.  It encrypts all your files, including: music, MS Office, Open Office, pictures, videos, shared online files etc…",
-      "value": "GoldenEye Ransomware",
-      "uuid": "ac7affb8-971d-4c05-84f0-172b61d007d7"
-    },
-    {
-      "meta": {
-        "refs": [
           "https://id-ransomware.blogspot.co.il/2016/12/sage-ransomware.html",
           "https://www.bleepingcomputer.com/forums/t/634978/sage-file-sample-extension-sage/",
           "https://www.bleepingcomputer.com/forums/t/634747/sage-20-ransomware-sage-support-help-topic/"

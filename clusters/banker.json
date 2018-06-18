@@ -333,7 +333,8 @@
         ],
         "synonyms": [
           "Qbot ",
-          "Pinkslipbot"
+          "Pinkslipbot",
+          "Akbot"
         ]
       },
       "description": "Qakbot is a banking trojan that leverages webinjects to steal banking information from victims.  It also utilizes DGA for command and control. It is primarily delivered via exploit kits.",

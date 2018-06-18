@@ -1540,20 +1540,6 @@
       "value": "Palevo"
     },
     {
-      "meta": {
-        "synonyms": [
-          "Qbot",
-          "Qakbot",
-          "PinkSlipBot"
-        ],
-        "refs": [
-          "https://en.wikipedia.org/wiki/Akbot"
-        ]
-      },
-      "uuid": "ac2ff27d-a7cb-46fe-ae32-cfe571dc614d",
-      "value": "Akbot"
-    },
-    {
       "description": "Upatre is a Trojan downloader that is used to set up other threats on the victim's PC. Upatre has been used recently in several high profile Trojan attacks involving the Gameover Trojan. ",
       "value": "Upatre",
       "uuid": "99d9110d-85a4-4819-9f85-05e4b73aa5f3"
